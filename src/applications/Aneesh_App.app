@@ -14,4 +14,5 @@
     <tab>OverrideBehaviour__c</tab>
     <tab>TemplateSetting__c</tab>
     <tab>Power_BI_report</tab>
+
 </CustomApplication>
